@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ryan Mangum
+- 👀 I’m interested in FinTech
+- 🌱 I’m currently learning Python 
+- 📫 How to reach me: rrmangum@gmail.com
