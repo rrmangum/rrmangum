@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ryan Mangum
 - 👀 I’m interested in FinTech, Blockchain, and Cryptocurrencies
-- 🌱 I’m currently learning Python with an emphasis on Pandas and PyViz
+- 🌱 I’m currently learning SQL
 - 📫 How to reach me: rrmangum@gmail.com
