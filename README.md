@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ryan Mangum
-- 👀 I’m interested in FinTech, Blockchain, and Cryptocurrencies
-- 🌱 I’m currently learning supervised and unsupervised machine learning and algorithmic trading
+- 👀 I’m interested in application development, blockchain, and cryptocurrencies
+- 🌱 I’m currently learning full stack web development
 - 📫 How to reach me: rrmangum@gmail.com
