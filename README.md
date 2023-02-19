@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ryan Mangum
 - 👀 I’m interested in application development, blockchain, and cryptocurrencies
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently getting ready for the hackathon at Outer Edge LA
 - 📫 How to reach me: rrmangum@gmail.com
