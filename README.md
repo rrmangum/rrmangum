@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ryan Mangum
 - 👀 I’m interested in application development and distributed systems
-- 🌱 I’m currently learning Nodejs and data structures and algorithms
+- 🌱 I’m currently learning Node.js and data structures and algorithms
 - 📫 How to reach me: rrmangum@gmail.com
