@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ryan Mangum
 - 👀 I’m interested in application development and distributed systems
-- 🌱 I’m currently learning Node.js and Express
+- 🌱 I’m currently building expertise in the .NET framework
 - 📫 How to reach me: rrmangum@gmail.com
