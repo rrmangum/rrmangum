@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ryan Mangum
 - 👀 I’m interested in application development and distributed systems
-- 🌱 I’m currently building expertise in the .NET framework
+- 🌱 I’m currently learning data structures and algorithms
 - 📫 How to reach me: rrmangum@gmail.com
