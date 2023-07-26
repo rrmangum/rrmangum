@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ryan Mangum
 - 👀 I’m interested in application development and distributed systems
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: rrmangum@gmail.com
