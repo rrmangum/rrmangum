@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ryan Mangum
 - 👀 I’m interested in application development and distributed systems
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Java
+- 🚧 I'm building a web application using JavaScript, Flask, and GCP. 
 - 📫 How to reach me: rrmangum@gmail.com
