@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan Mangum
 - 👀 I’m interested in application development and distributed systems
-- 🌱 I’m currently learning Java
-- 🚧 I'm building a web application using JavaScript, Express, and GCP. 
+- 🌱 I’m currently learning computer networks
+- 🚧 I'm building sockets with C++. 
 - 📫 How to reach me: rrmangum@gmail.com
